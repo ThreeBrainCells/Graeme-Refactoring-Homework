@@ -6,7 +6,7 @@ To my understanding my assignment was to replace as many of the <div> elements w
 
 This is the result:[my homework](https://threebraincells.github.io/Graeme-Refactoring-Homework/)
 
-[What the website looks like](assets\images\Graeme-Website-Screenshot.png)
+[What the website looks like](assets/images/Graeme-Website-Screenshot.png)
 
 =======
 ## Welcome to GitHub Pages
