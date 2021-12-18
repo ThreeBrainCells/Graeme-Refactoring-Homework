@@ -5,6 +5,9 @@ This is my first homework assignment for the bootcamp.
 To my understanding my assignment was to replace as many of the <div> elements with appropriate semantic html elements as i could, add descriptive alt messages to the images, remap the CSS selectors to the new semantic elements, consolidate the redundant CSS selectors, and provide comments explaining my changes.
 
 This is the result:[my homework](https://threebraincells.github.io/Graeme-Refactoring-Homework/)
+
+![What the website looks like](.assets/images/Graeme-Website-Screenshot.png)
+
 =======
 ## Welcome to GitHub Pages
 
